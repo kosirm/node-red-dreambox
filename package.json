@@ -1,0 +1,12 @@
+{
+    "name": "dreambox-node-red",
+    "description": "Learn Node-RED",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_infocube-cell-5837665.json",
+            "credentialsFile": "flows_infocube-cell-5837665_cred.json"
+        }
+    }
+}
